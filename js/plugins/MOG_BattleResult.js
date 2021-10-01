@@ -214,6 +214,7 @@ BattleManager.processVictory = function() {
 };
 
 
+
 //==============================
 // ** get Result Data
 //==============================

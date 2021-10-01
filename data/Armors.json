@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"木の盾","note":"","params":[0,0,0,1,0,0,0,0],"price":100},
+{"id":1,"atypeId":1,"description":"木製の粗末な盾。","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"木の盾","note":"","params":[0,0,0,2,0,0,0,0],"price":100},
 {"id":2,"atypeId":1,"description":"【一般装備】通気性の高い布の服。","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"普段着","note":"","params":[0,0,0,1,0,0,0,0],"price":100},
 {"id":3,"atypeId":1,"description":"【一般装備】なめし皮で作られたベスト。","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"レザーベスト","note":"","params":[0,0,0,3,0,0,0,0],"price":200},
 {"id":4,"atypeId":1,"description":"【一般装備】過酷な旅にも耐えられる丈夫な服。","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"冒険者の服","note":"","params":[0,0,0,7,0,0,0,0],"price":550},
